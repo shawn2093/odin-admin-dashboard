@@ -60,7 +60,7 @@ odin-admin-dashboard/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shawn2093/odin-admin-dashboard.git
    cd odin-admin-dashboard
    ```
 
