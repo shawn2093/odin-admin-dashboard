@@ -117,7 +117,7 @@ This is an educational project, but suggestions and improvements are welcome!
 
 ## 📞 Contact
 
-Created by Shawn Ong (@shawnong) as part of The Odin Project learning path.
+Created by Shawn Ong (@shawn2093) as part of The Odin Project learning path.
 
 ---
 
